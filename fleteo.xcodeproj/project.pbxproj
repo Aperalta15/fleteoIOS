@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FECB8E992442F5B1007B8CE0 /* fleteo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fleteo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FECB8E992442F5B1007B8CE0 /* Fleteo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fleteo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FECB8E9C2442F5B3007B8CE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FECB8E9E2442F5B3007B8CE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FECB8EA02442F5B3007B8CE0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		FECB8E9A2442F5B1007B8CE0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FECB8E992442F5B1007B8CE0 /* fleteo.app */,
+				FECB8E992442F5B1007B8CE0 /* Fleteo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = fleteo;
 			productName = fleteo;
-			productReference = FECB8E992442F5B1007B8CE0 /* fleteo.app */;
+			productReference = FECB8E992442F5B1007B8CE0 /* Fleteo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.carsok.fleteo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Fleteo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.carsok.fleteo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Fleteo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

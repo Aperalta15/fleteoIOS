@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  fleteo
 //
-//  Created by Osiris Bonadiez Castillo on 4/12/20.
+//  Created by Antonio Peralta Bonadiez on 4/12/20.
 //  Copyright © 2020 CarsOk. All rights reserved.
 //
 
